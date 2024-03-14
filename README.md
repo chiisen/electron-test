@@ -9,6 +9,7 @@ npm init
 
 // 安裝 electron
 npm install --save-dev electron
+npm i
 
 // 執行
 npm start
