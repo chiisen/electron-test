@@ -14,3 +14,12 @@ npm i
 // 執行
 npm start
 ```
+
+# 打包工具專案
+```
+// 安裝 electron-builder
+npm i -D electron-builder
+
+// 執行打包
+node build.js
+```
